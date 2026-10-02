@@ -1,4 +1,3 @@
-// Veiculo.java
 package br.edu.cs.poo.ac.seguro.entidades;
 
 import java.io.Serializable;
