@@ -88,3 +88,4 @@ public class TesteSeguradoEmpresaDAO extends TesteDAO {
 		Assertions.assertTrue(ret);
 	}
 }
+
